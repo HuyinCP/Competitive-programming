@@ -1,5 +1,5 @@
 # Competitive Programming
-My own templates and implementation of important algorithms and data structures for competitive programming
+My templates and implementation some algorithms & data structures for CP
 
 My profile: [Codeforces](https://codeforces.com/profile/Huy_inIT), [HackerRank](https://www.hackerrank.com/profile/huy211020055)
 
