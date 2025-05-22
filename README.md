@@ -9,7 +9,7 @@ My profile: [Codeforces](https://codeforces.com/profile/Huy_inIT), [HackerRank](
 
 
 ## Contest templates
-  - [My template C++](Contest%20Template/main.cpp)
+  - [My template C++](Contestmain.cpp)
 
 ## Graph
   - Graph Traversing ([DFS](Graphs/Graph%20Traversal/DFS.cpp), [BFS](Graphs/Graph%20Traversal/BFS.cpp))
