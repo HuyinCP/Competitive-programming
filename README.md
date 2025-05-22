@@ -5,7 +5,8 @@ My profile: [Codeforces](https://codeforces.com/profile/Huy_inIT), [HackerRank](
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ncduy0303/Competitive-Programming&type=Date)](https://star-history.com/#ncduy0303/Competitive-Programming&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=HuyinCP/REPO-NAME&type=Date)](https://star-history.com/#HuyinCP/REPO-NAME&Date)
+
 
 ## Contest templates
   - [My template C++](Contest%20Template/main.cpp)
