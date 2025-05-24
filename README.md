@@ -1,14 +1,15 @@
 # Competitive Programming
-My own templates and implementation of important algorithms and data structures for competitive programming
+My templates and implementation some algorithms & data structures for CP
 
 My profile: [Codeforces](https://codeforces.com/profile/Huy_inIT), [HackerRank](https://www.hackerrank.com/profile/huy211020055)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ncduy0303/Competitive-Programming&type=Date)](https://star-history.com/#ncduy0303/Competitive-Programming&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=HuyinCP/REPO-NAME&type=Date)](https://star-history.com/#HuyinCP/REPO-NAME&Date)
+
 
 ## Contest templates
-  - [My template C++](Contest%20Template/main.cpp)
+  - [My template C++](main.cpp)
 
 ## Graph
   - Graph Traversing ([DFS](Graphs/Graph%20Traversal/DFS.cpp), [BFS](Graphs/Graph%20Traversal/BFS.cpp))
